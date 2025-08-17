@@ -1,0 +1,6 @@
+{
+    "name": "irfanshah/hostelmessmanagementsystem",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
